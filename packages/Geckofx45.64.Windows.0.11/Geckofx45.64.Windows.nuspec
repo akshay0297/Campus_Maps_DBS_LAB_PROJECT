@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+  <metadata minClientVersion="2.5">
+    <id>Geckofx45.64.Windows</id>
+    <version>0.11</version>
+    <title>Development only Firefox files for geckofx-45 Windows 64bit. Not needed for including geckofx in your application.</title>
+    <authors>Tom Hindle</authors>
+    <owners>Tom Hindle</owners>
+    <projectUrl>https://bitbucket.org/geckofx/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This should only used for building geckofx-45.
+	Do NOT use this package if you just want to include geckofx in your application.</description>
+    <summary>Development only package for building geckofx-45. Not for general use.</summary>
+    <copyright>Copyright 2015</copyright>
+    <tags>Firefox Gecko Geckofx</tags>
+  </metadata>
+</package>
