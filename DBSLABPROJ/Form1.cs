@@ -37,7 +37,7 @@ namespace DBSLABPROJ
             server = "localhost";
             database = "dbslab";
             uid = "root";
-            pass = "akshay";
+            pass = "yourMYSQLPassword";
             string connectionString;
             connectionString = "SERVER=" + server + ";" + "DATABASE=" +
             database + ";" + "UID=" + uid + ";" + "PASSWORD=" + pass + ";";
