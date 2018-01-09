@@ -35,7 +35,7 @@ namespace DBSLABPROJ
         public void connect1()
         {
             server = "localhost";
-            database = "dbslab";
+            database = "yourDatabaseName";
             uid = "root";
             pass = "yourMYSQLPassword";
             string connectionString;
